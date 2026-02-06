@@ -1,0 +1,7 @@
+{
+  "name": "AlphaChat AI",
+  "description": "A high-performance AI chatbot interface powered by Gemini 3 Flash, featuring real-time streaming, markdown support, and a modern aesthetic design.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
